@@ -36,10 +36,7 @@ import main_car from "./main_car.png"
 import banner_car_image from "./banner_car_image.png"
 import user_profile from "./user_profile.png"
 import upload_icon from "./upload_icon.svg"
-import car_image1 from "./car_image1.png"
-import car_image2 from "./car_image2.png"
-import car_image3 from "./car_image3.png"
-import car_image4 from "./car_image4.png"
+
 
 export const cityList = ['Warangal', 'Hyderabad', 'kazipet', 'Chinnapendyal']
 
@@ -80,12 +77,9 @@ export const assets = {
     testimonial_image_2,
     main_car,
     banner_car_image,
-    car_image1,
     upload_icon,
-    user_profile,
-    car_image2,
-    car_image3,
-    car_image4
+    user_profile
+ 
 }
 
 export const menuLinks = [
